@@ -1,1 +1,0 @@
-print"janak singh dhami"
